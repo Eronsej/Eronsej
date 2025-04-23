@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Eron+S.+%F0%9F%93%9A;Wirtschaftsinformatik+Student+%F0%9F%A7%A0;Full-Stack+Entwickler+%F0%9F%93%A6" />
 </div>
 
-## Hallo, Ich bin Eron 👋
+## Hallo, ich bin Eron 👋
 
 ### 🛠️ Programmiersprachen
 
