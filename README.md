@@ -1,6 +1,6 @@
 ## Hallo, Ich bin Eron 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Wirtschaftsinformatik+Student+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Wirtschaftsinformatik+Student+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 ### 🛠️ Programmiersprachen
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
