@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2361DBFB.svg?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </div>
 <!--
 **Eronsej/Eronsej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
