@@ -1,6 +1,6 @@
-## Hallo, Ich bin Eron 👋
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Eron+S.+%F0%9F%93%9A;Wirtschaftsinformatik+Student+%F0%9F%A7%A0;Full+Stack+Entwickler+%F0%9F%93%A6)](https://git.io/typing-svg)
+
+## Hallo, Ich bin Eron 👋
 
 ### 🛠️ Programmiersprachen
 
@@ -27,6 +27,15 @@
   <img src="https://img.shields.io/badge/react-%2361DBFB.svg?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 </div>
+
+
+### 📝 IDEs
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+</div>
+
 <!--
 **Eronsej/Eronsej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
