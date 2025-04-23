@@ -5,7 +5,8 @@
 ### 🛠️ Programmiersprachen
 
 <div align="left">
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+
 
   <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/TAILWINDCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
