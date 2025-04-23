@@ -11,14 +11,17 @@
   <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/TAILWINDCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
   <img src="https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</div>
+
+<div align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=C74634" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=.net&logoColor=white&color=512BD4" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white" />
 
 </div>
-
 
 ### 🧩 Frameworks
 
