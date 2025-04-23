@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hallo, Ich bin Eron 👋
 
+
+### 🛠️ Programmiersprachen
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 <!--
 **Eronsej/Eronsej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
